@@ -1,0 +1,7 @@
+Sub & Sandwitch:
+................
+
+1. Chicken Sandwitch	Tk 60
+2. Club Sandwitch	Tk 90
+3. Mini Sub		Tk 70
+4. Full Sub		Tk 120

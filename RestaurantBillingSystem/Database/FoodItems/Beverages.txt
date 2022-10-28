@@ -1,0 +1,8 @@
+Beverages:
+..........
+
+1. Choco Cold Coffee	Tk 60
+2. Strawberry Shake	Tk 60
+3. Mint Lassi		Tk 80
+4. Oreo Shake		Tk 100
+5. Mixed Juices		Tk 150

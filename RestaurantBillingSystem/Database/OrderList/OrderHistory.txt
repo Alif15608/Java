@@ -1,0 +1,8 @@
+Steak Burger
+Qx3	Tk. 270
+Current Amount
+Qx1	Tk. 270
+Discount Amount
+Qx0	Tk. 0
+Total Amount
+Qx1	Tk. 270

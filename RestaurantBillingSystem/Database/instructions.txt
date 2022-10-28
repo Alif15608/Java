@@ -1,0 +1,8 @@
+
+!!Instructions:	
+
+To return Main Menu, Enter 0 
+To  confirm  Order , Enter 100
+If program not end,  Enter 100 again
+
+If No Voucher, PRESS Enter

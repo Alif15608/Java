@@ -1,0 +1,8 @@
+Burger & Pizza:
+---------------
+
+1. Mini Burger		Tk 70
+2. Steak Burger		Tk 90
+3. Chicken Burger	Tk 130
+4. Mini Pizza		Tk 120
+5. Family Pizza		Tk 300
